@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://i.gifer.com/TFQt.gif);
+    background-size: cover;
+    background-position-y: 20%;
+}
+
+h1{
+background-color:rgb(255, 2, 2);
+}
+
+div{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    width: 50px;
+    height: 10px;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.1;
+}
